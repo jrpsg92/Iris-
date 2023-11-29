@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma première page web</title>
+</head>
+<body>
+
+    <header>
+        <h1>Titre de ma page</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">À propos</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Contenu principal</h2>
+        <p>Bienvenue sur ma page web ! Ceci est un exemple de paragraphe.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MonSiteWeb.com</p>
+    </footer>
+
+</body>
+
+:
